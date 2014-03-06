@@ -2,3 +2,4 @@ This is the original text before branch.
 
 This text added on myFirstBranch
 second line
+third line
