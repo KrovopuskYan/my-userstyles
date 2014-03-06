@@ -1,1 +1,2 @@
-This is the original text before branch.
+This is the original text before branch. This phrase added when I return back
+to master branch.
