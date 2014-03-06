@@ -1,2 +1,15 @@
+
 This is the original text before branch. This phrase added when I return back
 to master branch.
+
+
+
+
+This is the original text before branch.
+
+This text added on myFirstBranch
+second line
+third line
+four line
+five line
+six line - after second branch first-time push
