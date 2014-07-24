@@ -1,0 +1,175 @@
+#calmaster {
+    background-color: black;
+}
+
+#gridcontainer {
+    margin-right: 17px;
+}
+
+#mainbody {
+    margin-left: 30px;
+}
+
+#mainnav {
+    background: transparent;
+    position: relative;
+}
+
+#nav, #sidebar {
+    display: none;
+}
+
+#onegoogbar {
+    display: none;
+}
+
+#topLeftNavigation, #searchNavigation {
+    left: 30px;
+}
+
+#topRightNavigation, #searchNavigation {
+    margin-right: 18px;
+}
+
+#vr-nav {
+    display: none ;
+}
+
+.applogo {
+    display: none;
+    left: 34px;
+    line-height: 28px;
+    z-index: 10;
+}
+
+.st-bg-next {
+    border-left-color: #ddd;
+}
+
+.st-bg-today {
+    background-color: transparent;
+    border-left-color: #ddd;
+}
+
+.st-c .rb-n {
+    padding: 10px;
+    background-color: black;
+    border: black;
+}
+
+.st-dtitle-down {
+    border-top-color: #ddd;
+}
+
+.st-dtitle-next {
+    border-left-color: #ddd;
+}
+
+.st-dtitle-today {
+    background-color: transparent;
+    border-left-color: #ddd;
+}
+
+.st-wc {
+    opacity: 0.6;
+}
+
+.tg-times-pri, .tg-times-sec {
+    border-left: 0px;
+}
+
+.wk-dayname {
+    border-top: 0px;
+}
+
+.wk-dummyth {
+    background-color: #F1F1F1;
+}
+
+.wk-full-mode .wk-today {
+    border-left: 0px;
+}
+
+.wk-full-mode .wk-tomorrow {
+    border-left: 0px;
+}
+
+.wk-today, .wk-dayname {
+    color: #aaa;
+}
+
+.wk-tzlabel {
+    color: #F1F1F1;
+}
+
+.wk-weektop, #gridcontainer {
+    background-color: transparent;
+}
+
+body {
+    background-color: #F1F1F1;
+}
+
+div.trans-strip.goog-inline-block {
+    display: none;
+}
+
+td.st-dtitle.st-dtitle-today {
+    font-size: 22px;
+    color: #ff0000;
+}
+
+td.st-bg {
+    background-color: #000000;
+}
+
+td.st-dtitle {
+    background-color: #000000;
+    color: #e6e6e6;
+}
+
+th.mv-dayname {
+    background-color: #000000;
+    color: #c7c7c7;
+}
+
+div.mv-container {
+    background-color: #000000;
+}
+
+#rhstogglecell {
+    background-color: #000000;
+}
+
+div.snt-container.snt-focus {
+    background-color: #785b78;
+    display: none;
+}
+
+span.te-s {
+    color: #cccccc;
+}
+
+span.te-t {
+    color: #cccccc;
+}
+
+.st-bg {
+    border-left: 1px solid black;
+}
+
+.st-dtitle {
+    border-left: 1px solid black;
+    border-top: 1px solid black;
+}
+
+.mv-event-container {
+    background: black;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+}
+
+div#rhstogglecell {
+    display: none;
+}
