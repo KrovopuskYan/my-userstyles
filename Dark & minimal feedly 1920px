@@ -1,0 +1,433 @@
+#feedlyFrame {
+    background-color: #3a3a3a;
+}
+
+#feedlyProBar {
+    display: none;
+}
+
+#feedlyTabsHolder, #floatingBar, #storeHolder {
+    -webkit-transform: translateZ(0);
+}
+
+#fixedProfile {
+    display: none;
+}
+
+#floatingBar {
+    background-color: black;
+    border-bottom: 0px;
+}
+
+#floatingBar h1 {
+    border-bottom-color: -moz-initial;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: -moz-initial;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: -moz-initial;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: -moz-initial;
+    border-top-style: none;
+    border-top-width: medium;
+}
+
+#sideArea a {
+    border-bottom-color: -moz-initial;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: -moz-initial;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: -moz-initial;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: -moz-initial;
+    border-top-style: none;
+    border-top-width: medium;
+}
+
+.area {
+    background-attachment: scroll;
+    background-color: #3a3a3a;
+    background-image: none;
+    background-position: top left;
+    background-repeat: repeat;
+    border-bottom-color: -moz-initial;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: -moz-initial;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: -moz-initial;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: -moz-initial;
+    border-top-style: none;
+    border-top-width: medium;
+    padding-top: 1em;
+}
+
+.condensedTools {
+    -webkit-filter: invert();
+}
+
+.entriesLoadingMessage {
+    -webkit-filter: invert();
+}
+
+.entryHolder {
+    background-attachment: scroll;
+    background-color: #414141;
+    background-image: none;
+    background-position: top left;
+    background-repeat: repeat;
+}
+
+.entryholder {
+    background-color: #3A3A3A;
+}
+
+.highlightableIcon:not(.toBeTagged) {
+    -webkit-filter: invert();
+}
+
+.inlineFrame {
+    background-attachment: scroll;
+    background-color: #313131;
+    background-image: none;
+    background-position: top left;
+    background-repeat: repeat;
+    border-bottom-color: -moz-initial;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: -moz-initial;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: -moz-initial;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: -moz-initial;
+    border-top-style: none;
+    border-top-width: medium;
+}
+
+.inlineFrame .u100Entry {
+    background-attachment: scroll;
+    background-color: #313131;
+    background-image: none;
+    background-position: top left;
+    background-repeat: repeat;
+}
+
+.pageActionBar {
+    background-color: #414141;
+}
+
+.pageActionBar img {
+    -webkit-filter: invert();
+}
+
+.selectedEntry {
+    background-attachment: scroll;
+    background-color: #3a3a3a;
+    background-image: none;
+    background-position: top left;
+    background-repeat: repeat;
+    border-bottom-color: -moz-initial;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: -moz-initial;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: -moz-initial;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: -moz-initial;
+    border-top-style: none;
+    border-top-width: medium;
+    box-shadow: none;
+}
+
+.title.read {
+    color: #999999;
+}
+
+.topWikiWidget, .bottomWikiWidget {
+    background-attachment: scroll;
+    background-color: #e6e6e6;
+    background-image: none;
+    background-position: top left;
+    background-repeat: repeat;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+}
+
+.u0Entry {
+    border-bottom-color: -moz-initial;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: -moz-initial;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: -moz-initial;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: -moz-initial;
+    border-top-style: none;
+    border-top-width: medium;
+}
+
+.u0Entry .lastModified::before {
+    content: '|';
+    margin-right: 5px;
+}
+
+.u0Entry .quicklistHandle {
+    background-attachment: scroll;
+    background-color: transparent;
+    background-image: url(http://s3.feedly.com/production/14.0/images/selector-saved-active.png );
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 30px 30px;
+}
+
+.u0Entry .title {
+    font-weight: normal;
+}
+
+.u0Entry.selectedEntry {
+    padding-bottom: 0;
+    padding-top: 0;
+}
+
+.u0Entry:hover {
+    background-attachment: scroll;
+    background-color: #414141;
+    background-image: none;
+    background-position: top left;
+    background-repeat: repeat;
+}
+
+.u100Frame {
+    border: 0px;
+    padding: 0px;
+}
+
+.u100entry {
+    background-attachment: scroll;
+    background-color: #3a3a3a;
+    background-image: none;
+    background-position: top left;
+    background-repeat: repeat;
+}
+
+.u12Entry div:first-child {
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+}
+
+.u4Entry .marginMaker {
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+}
+
+.u4Entry .title {
+    color: #fff
+;
+    padding-bottom: 5px;
+}
+
+.u4entry {
+    border-bottom-color: -moz-initial;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: -moz-initial;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: -moz-initial;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: -moz-initial;
+    border-top-style: none;
+    border-top-width: medium;
+}
+
+.u4entry.selectedEntry {
+    margin-bottom: 34px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+}
+
+.u5entry {
+    background-attachment: scroll;
+    background-color: #414141;
+    background-image: none;
+    background-position: top left;
+    background-repeat: repeat;
+    border-bottom-color: -moz-initial;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: -moz-initial;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: -moz-initial;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: -moz-initial;
+    border-top-style: none;
+    border-top-width: medium;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+}
+
+.u5entry .title {
+    margin-bottom: 10px;
+}
+
+.u5entry.selectedEntry {
+    margin-bottom: 34px;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+}
+
+.unread, #floatingBar h1, #feedlyTitleBar {
+    color: #bbb;
+}
+
+.viewerIcon.hi {
+    border-bottom-color: -moz-initial;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-left-color: -moz-initial;
+    border-left-style: none;
+    border-left-width: medium;
+    border-right-color: -moz-initial;
+    border-right-style: none;
+    border-right-width: medium;
+    border-top-color: -moz-initial;
+    border-top-style: none;
+    border-top-width: medium;
+}
+
+.wikiWidget {
+    background-color: #3a3a3a;
+    border-bottom-color: -moz-initial;
+    border-bottom-style: none;
+    border-bottom-width: 0;
+}
+
+a.entryTitle.title.read {
+    color: #fff;
+    font-size: 40px;
+}
+
+a.title.unread {
+    border-color: #ffffff;
+    color: #ffffff;
+}
+
+body, h2, #sideArea a, #sideArea .feedIndexTitle, .entryBody h1, .entryBody h2, .entryBody h3, .entryBody h4, .entryBody h5, .entryBody h6.feedIndexTitle, .entryBody, .fusionAd div:first-of-type, .preferencesItemLabel, .preferencesItemDescription, .preferencesPanel label, .sourceTitle a:hover, .entryBody .summary b, .entryBody .content b, .entryBody td {
+    color: #fff;
+}
+
+div.proShowcase {
+    display: none;
+}
+
+div.topWikiWidget.wikiWidget div {
+    display: none;
+}
+
+h1 .hhint {
+    padding-top: 5px;
+}
+
+span.nbrRecommendations {
+    color: #875987;
+    display: none;
+}
+
+span.sourceTitle a {
+    color: #c2c2c2;
+}
+
+a.websiteCallForAction {
+    background-color: #000000;
+    display: none;
+}
+
+div.toBeTagged.highlightableIcon {
+    background-color: #000000;
+    display: none;
+}
+
+img.wikiWidgetAction.highlightableIcon {
+    display: none;
+}
+
+#herculeHint {
+    display: none;
+}
+
+#herculeFrame {
+    display: none;
+}
+
+div.pageActionBar {
+    background-color: #3A3A3A;
+}
+
+div.content p {
+    font-size: 20px;
+}
+
+div#mainBar {
+    width: 1700px;
+}
+
+div#feedlyPage {
+    width: 1500px;
+}
+
+.entryBody {
+    max-width: 1500px;
+}
+
+span.pin {
+    display: none;
+}
+
+span.epin {
+    display: none;
+}
+
+div.content ol li {
+    font-size: 20px;
+}
+
+div.content ul li {
+    font-size: 20px;
+}
+
+.title {
+    max-width: 1500px;
+}
+
+
