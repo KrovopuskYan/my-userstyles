@@ -3,11 +3,11 @@
 }
 
 #gridcontainer {
-    margin-right: 17px;
+    margin-right: 0px;
 }
 
 #mainbody {
-    margin-left: 30px;
+    margin-left: 0px;
 }
 
 #nav, #sidebar {
@@ -44,10 +44,6 @@
     border-top: 1px solid black;
 }
 
-.st-dtitle-next {
-    border-left-color: #ddd;
-}
-
 div.mv-container {
     background-color: #000000;
 }
@@ -81,4 +77,12 @@ span.group label {
 
 #rhstogglecell {
     display: none;
+}
+
+span.te-s {
+    color: #c7c5c7;
+}
+
+span.te-t {
+    color: #e6e6e6;
 }
