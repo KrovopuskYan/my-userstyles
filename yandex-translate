@@ -1,0 +1,137 @@
+div.promo-footer {
+    display: none;
+}
+
+td.b-foot__layout-column.b-foot__layout-column_type_left {
+    display: none;
+}
+
+td.b-foot__layout-column.b-foot__layout-column_type_penultima {
+    display: none;
+}
+
+td.b-foot__layout-column.b-foot__layout-column_type_center {
+    display: none;
+}
+
+td.l-head__c {
+    display: none;
+}
+
+td.b-head-userinfo__exit {
+    display: none;
+}
+
+td.b-foot__layout-column.b-foot__layout-column_type_second {
+    display: none;
+}
+
+div.b-copyright {
+    display: none;
+}
+
+td.b-foot__layout-column.b-foot__layout-column_type_right {
+    display: none;
+}
+
+span.yt-phrasebook-button {
+    display: none;
+}
+
+div.b-head-user.i-bem.b-head-user_js_inited {
+    display: none;
+}
+
+div.b-head-logo__logo {
+    display: none;
+}
+
+div.b-foot {
+    display: none;
+}
+
+body.b-page.b-page__body.i-global.i-bem.i-global_js_inited {
+    background-color: #000000;
+}
+
+span.yt-phrasebook-text {
+    color: #e0e0e0;
+}
+
+td.b-head-userinfo__td {
+    display: none;
+}
+
+textarea.yt-area-textbox__textbox {
+    background-color: #000000;
+    color: #c7c7c7;
+    font-size: 22px;
+}
+
+#dictPanel {
+    background-color: #000000;
+    border-top-color: black;
+}
+
+tr {
+    border-bottom: 0px;
+}
+
+div.yt-dictionary-title {
+    color: #dedede;
+}
+
+span.yt-dictionary-meaning {
+    color: #cccccc;
+}
+
+div.yt-area-textbox.yt-area-textbox__textbox {
+    background-color: #000000;
+    color: #e3e3e3;
+    font-size: 22px;
+}
+
+div.yt-area.yt-area_type_target {
+    background-color: #000000;
+}
+
+div.yt-area.yt-area_type_source {
+    background-color: #030303;
+}
+
+td.yt-phrasebook-cell.yt-phrasebook-item.yt-phrasebook-cell-022 {
+    background-color: #000000;
+}
+
+td.yt-phrasebook-cell.yt-phrasebook-item.yt-phrasebook-cell-012 {
+    background-color: #000000;
+}
+
+td.yt-phrasebook-cell.yt-phrasebook-item.yt-phrasebook-index {
+    background-color: #000000;
+}
+
+.yt-phrasebook-body .yt-phrasebook-cell {
+    border-bottom: 0px;
+}
+
+table {
+    border-color: black;
+}
+
+ul.yt-area-panel {
+    background-color: #000000;
+}
+
+.yt-area-panel {
+    border-bottom: 0px;
+}
+
+.yt-area {
+    border: 1px;
+}
+
+div {
+    border-top: 0px;
+}
+
